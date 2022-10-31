@@ -1,5 +1,9 @@
 rencana yang akan dipersiapkan 
 
-1. menguasai tools test 
+1. menguasai tools test :
+Katalon
+Jmeter 
+Opium 
+
 2. menguasai basic programing 
 3. english language 
