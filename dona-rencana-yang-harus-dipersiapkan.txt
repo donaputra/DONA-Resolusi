@@ -1,9 +1,13 @@
 rencana yang akan dipersiapkan 
 
 1. menguasai tools test :
-Katalon
-Jmeter 
-Opium 
+Katalon 10%
+Jmeter 65%
+Appium 10%
 
-2. menguasai basic programing 
-3. english language 
+2. menguasai basic programing :
+Java 50%
+JavaScript 35%
+Python 26%
+
+3. bahasa inggris 65%
